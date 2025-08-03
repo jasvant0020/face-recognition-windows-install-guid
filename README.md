@@ -44,7 +44,7 @@ venv\Scripts\activate
 
 ## ✅ Step 3: Install Build Tools (One-Time Setup)
 🔹 Install Visual C++ Build Tools:
- Go to:
+- Go to:
 ```
  https://visualstudio.microsoft.com/visual-cpp-build-tools/
 ```
@@ -56,7 +56,7 @@ These are required to build dlib, a dependency of face_recognition.
 
 ## ✅ Step 4: Install CMake (if not installed)
 🔹 Download from:
-Go to:
+- Go to:
 ```
 https://cmake.org/download/
 ```
