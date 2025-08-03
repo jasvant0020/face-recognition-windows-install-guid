@@ -44,7 +44,7 @@ venv\Scripts\activate
 
 ## ✅ Step 3: Install Build Tools (One-Time Setup)
 🔹 Install Visual C++ Build Tools:
-Go to:
+ Go to:
 ```
  https://visualstudio.microsoft.com/visual-cpp-build-tools/
 ```
