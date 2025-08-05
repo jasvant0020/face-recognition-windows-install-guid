@@ -66,7 +66,7 @@ These are required to build dlib, a dependency of face_recognition.
 ```
 https://cmake.org/download/
 ```
-[Example image](assets/Install_Build_Tools.jpg)
+[Example image](assets/cmake_download.jpg)
 - Install and make sure CMake is added to PATH during installation.
 - Confirm CMake installation:
 ```
