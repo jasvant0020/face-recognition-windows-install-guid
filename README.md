@@ -41,6 +41,7 @@ python3.10 -m venv venv      #  python(VersionName) -m venv FolderName
 venv\Scripts\activate        #  FolderName\Scripts\Activate
 ```
 🔹 Your prompt will change to show (venv) — you're now inside the virtual environment.
+[Example image](assets/venv_creating.jpg)
 
 ## ✅ Step 3: Install Build Tools (One-Time Setup)
 🔹 Install Visual C++ Build Tools:
