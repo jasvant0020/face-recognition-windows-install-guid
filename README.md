@@ -73,6 +73,11 @@ https://cmake.org/download/
 ```
 cmake --version
 ```
+You should see something like:
+```
+cmake version 3.29.2
+```
+
 
 ## ✅ Step 5: Install dlib (core dependency)
 Option 1: Install via pip (works with Python 3.6–3.10)
