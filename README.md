@@ -57,6 +57,7 @@ These are required to build dlib, a dependency of face_recognition.
 ### NOTE
 - you will have to do step 4 even though you have already tick that(✅ CMake tools for Windows) option during Instalation Visual C++ Build Tools
 - (✅ Windows 10 SDK / Windows 11 SDK) depends on your operating system
+
 [Example image](assets/Install_Build_Tools.jpg)
 
 ## ✅ Step 4: Install CMake (if not installed)
