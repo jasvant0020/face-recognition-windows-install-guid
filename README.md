@@ -50,13 +50,13 @@ venv\Scripts\activate        #  FolderName\Scripts\Activate
 ```
 During installation, select:
 - ✅ C++ build tools
-- ✅ Windows 10 SDK
+- ✅ Windows 10 SDK/Windows 11 SDK
 - ✅ CMake tools for Windows    
 
 These are required to build dlib, a dependency of face_recognition.
 ### NOTE
-you will have to do step 4 even though you already tick that(✅ CMake tools for Windows) option during Instalation Visual C++ Build Tools
-
+- you will have to do step 4 even though you already tick that(✅ CMake tools for Windows) option during Instalation Visual C++ Build Tools
+- (✅ Windows 10 SDK/Windows 11 SDK) depends on your operating system
 [Example image](assets/Install_Build_Tools.jpg)
 
 ## ✅ Step 4: Install CMake (if not installed)
