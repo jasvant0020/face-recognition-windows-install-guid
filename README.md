@@ -38,7 +38,7 @@ python3.10 -m venv venv      #  python(VersionName) -m venv FolderName
 ```
 3. Activate the virtual environment:
 ```
-venv\Scripts\activate
+venv\Scripts\activate        #  FolderName\Scripts\Activate
 ```
 🔹 Your prompt will change to show (venv) — you're now inside the virtual environment.
 
