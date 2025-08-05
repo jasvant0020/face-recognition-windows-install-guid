@@ -43,7 +43,7 @@ venv\Scripts\activate        #  FolderName\Scripts\Activate
 🔹 Your prompt will change to show (venv) — you're now inside the virtual environment.[Example image](assets/venv_creating.jpg)
 
 ### NOTE 
-this virtual environment work well on different IDEs.[Example image](assets/venv_work_on.png)
+this virtual environment work well on different IDEs.[How](assets/venv_work_on.png)
 
 ## ✅ Step 3: Install Build Tools (One-Time Setup)
 🔹 Install Visual C++ Build Tools:
