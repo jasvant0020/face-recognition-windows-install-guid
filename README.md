@@ -34,7 +34,7 @@ cd path\to\your\project
 ```
 2. Create a virtual environment:
 ```
-python3.10 -m venv venv      # for windows users : py -3.10 -m venv venv 
+py -3.10 -m venv venv    # (venv) folder name or rename it as you want
 ```
 3. Activate the virtual environment:
 ```
