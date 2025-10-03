@@ -16,7 +16,7 @@ This guide walks you through setting up a Python virtual environment and install
 ## ✅ Step 1: Install Compatible Python Version (if needed)
 
 ### 🔹 Check your current Python version:
-```bash
+```
 python --version
 ```
 ```If it’s Python 3.11 or higher, download Python 3.10 or 3.9 from:
