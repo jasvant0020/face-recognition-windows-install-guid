@@ -95,6 +95,7 @@ Option 2: (If pip install fails) Install precompiled dlib from github
 https://github.com/z-mahmud22/Dlib_Windows_Python3.x/blob/main/dlib-19.22.99-cp310-cp310-win_amd64.whl
 ```
 - keep downloaded dlib file in same directory with project
+
 Example install:
 [Example image](assets/dlib_instalation.jpg)
 
