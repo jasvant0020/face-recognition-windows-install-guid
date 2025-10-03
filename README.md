@@ -97,7 +97,7 @@ https://github.com/z-mahmud22/Dlib_Windows_Python3.x/blob/main/dlib-19.22.99-cp3
 - keep downloaded dlib file in same directory with project
 
 Example install:
-[Example image](assets/dlib_instalation.jpg)
+[Example image](assets/dlib_instalation.png)
 
 ## ✅ Step 6: Install face_recognition
 After successful dlib installation, run:
