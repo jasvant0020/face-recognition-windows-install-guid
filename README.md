@@ -19,8 +19,11 @@ This guide walks you through setting up a Python virtual environment and install
 ```
 python --version
 ```
-```If it’s Python 3.11 or higher, download Python 3.10 or 3.9 from:
-https://www.python.org/downloads/
+
+- To download Python 3.10 Go to the official Python download page:
+
+```
+https://www.python.org/downloads/release/python-3100/
 ```
 🔸 During installation, make sure to:
 - ✅ Check “Add Python to PATH”
@@ -86,15 +89,14 @@ Option 1: Install via pip (works with Python 3.6–3.10)
 ```
 pip install dlib==19.24.2
 ```
-Option 2: (If pip install fails) Install from .whl
-1. Download prebuilt .whl for your Python version from:
+Option 2: (If pip install fails) Install precompiled dlib from github
+1. Visit github page to download dlib (for python 3.10)
 ```
-https://www.lfd.uci.edu/~gohlke/pythonlibs/#dlib
+https://github.com/z-mahmud22/Dlib_Windows_Python3.x/blob/main/dlib-19.22.99-cp310-cp310-win_amd64.whl
 ```
+- keep downloaded dlib file in same directory with project
 Example install:
-```
-pip install dlib‑19.24.2‑cp310‑cp310‑win_amd64.whl
-```
+[Example image](assets/dlib_instalation.jpg)
 
 ## ✅ Step 6: Install face_recognition
 After successful dlib installation, run:
